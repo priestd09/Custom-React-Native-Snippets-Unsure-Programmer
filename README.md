@@ -6,7 +6,8 @@ This repository contains few of the snippets that i use in my react native video
 
 - Open Visual Studio Code
 
-- CODE > PREFERENCES > USER SNIPPETS > **javascriptreact.json/jsx-attr.json/jsx.json**
+- CODE > PREFERENCES > USER SNIPPETS > **jsx-attr.json/jsx.json**
+- CODE > PREFERENCES > USER SNIPPETS > **javascript.json**
 
 - Copy the code from this repository into that file.
 
@@ -16,7 +17,7 @@ This repository contains few of the snippets that i use in my react native video
 
 - CODE > PREFERENCES > USER SNIPPETS > **javascript.json**
 
-## javascript.json/javascriptreact.json Snippets
+## javascript.json Snippets
 
 ```sh
 imrnc  - Import React Native Component
